@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+<h1>Bansos</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+Bansos (Bantuan Sosial) or social assistance is a website application that is used to record residents who will receive social assistance.</p>
+<br>
+</div>
 
-## Available Scripts
+## 📍 About
 
-In the project directory, you can run:
+Repository Bansos
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 How To Install?
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Clone This Repo
 
-### `npm test`
+```
+git clone https://github.com/marsellavaleria19/bansos.git
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Go To Folder Repo
 
-### `npm run build`
+```
+cd bansos
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Install Module
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm install
+```  
+- Type ``` npm run start ``` To Start The Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+## 🔎 Preview Pages
+  <span>
+      <img src="https://user-images.githubusercontent.com/44119106/172817753-93683047-ebac-45bb-b82a-ae2bfc1ead0f.png" width="415"/>
+    <img src="https://user-images.githubusercontent.com/44119106/172818316-87abbd3e-1282-4027-ba43-2bd0e0e160c7.png" width="415"/>
+    <img src="https://user-images.githubusercontent.com/44119106/172818590-4483326d-4cd4-475e-9eb7-9795bf271c45.png" width="415"/>
+    <br/>
+  </span>
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## ⛏️ Built Using
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Bootstrap](https://www.npmjs.com/package/bootstrap)
+- [react-icons](https://www.npmjs.com/package/react-icons)
+- [react-redux](https://www.npmjs.com/package/react-redux)
+- [redux](https://www.npmjs.com/package/redux)
+- [redux-logger](https://www.npmjs.com/package/redux-logger)
+- [redux-promise-middleware](https://www.npmjs.com/package/redux-promise-middleware)
+- [react-bootstrap](https://react-bootstrap.github.io/)
+<br>
